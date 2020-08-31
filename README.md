@@ -1,2 +1,1 @@
-# MLnotes
-Random notes on some machine learning problems
+# Random notes on some machine learning problems
